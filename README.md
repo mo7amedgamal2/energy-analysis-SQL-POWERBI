@@ -51,5 +51,5 @@ The goal is to deliver clear, actionable insights into Iraq’s emissions and en
 ---
 
 ## 👤 Author
-**Ibrahim Alsaegh**  
-🔗 [LinkedIn](https://www.linkedin.com/in/ibrahim-alsaegh) | 💻 [GitHub](https://github.com/ibrahim1993-2)
+**Mohamed Gamal Eldeen Ismail**  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-gamal-eldeen/) | 💻 [GitHub](https://github.com/mo7amedgamal2)
